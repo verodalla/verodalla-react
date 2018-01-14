@@ -1,0 +1,29 @@
+{
+  "main": {
+    "image": "/Logo-Verodalla-Noir-smaller.png",
+    "link": "/",
+    "title": "Verodalla"
+  },
+  "social": [
+    {
+      "image": "/twitter.png",
+      "link": "https://www.twitter.com/verodalla",
+      "title": "twitter"
+    },
+    {
+      "image": "/facebook.png",
+      "link": "https://www.facebook.com/verodalla",
+      "title": "facebook"
+    },
+    {
+      "image": "/instagram.png",
+      "link": "https://www.instagram.com/verodalla",
+      "title": "instagram"
+    },
+    {
+      "image": "/contact.svg",
+      "link": "mailto:contact@verodalla.com",
+      "title": "mail"
+    }
+  ]
+}
