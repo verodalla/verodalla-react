@@ -5,22 +5,18 @@ import Nav from '../nav/nav';
 import MainGallery from '../main_gallery/main_gallery';
 import Page from '../page/page';
 
-const component = () => {
-	return <div>FUN!!!</div>
-}
 class App extends Component {
-	render() {
-		return (
-				<Router>
-					<div>
-						<Nav />
-						<Route exact path="/" component={MainGallery} />
-						<Route path="/:page" component={Page} />
-					</div>
-				</Router>
-
-		);
-	}
+  render() {
+    return (
+      <Router>
+        <div>
+          <Nav />
+          <Route exact path="/" component={MainGallery} />
+          <Route path="/:page" component={Page} />
+        </div>
+      </Router>
+    );
+  }
 }
 
 export default App;
