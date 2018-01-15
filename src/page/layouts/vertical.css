@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 10fr 2fr;
   grid-gap: 20px;
-  padding: 20px;
+  /*padding: 20px;*/
 }
 
 .description--vertical {

@@ -6,7 +6,7 @@ import './main_gallery.css';
 
 const MainGallery = () => {
   return (
-    <div className="gallery">
+    <div className="gallery--main">
       {data.map(datum => <GalleryItem {...datum} />)}
     </div>
   );

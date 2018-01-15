@@ -37,7 +37,7 @@ class Slider extends PureComponent {
     };
 
     return (
-      <div>
+      <div className="gallery--page">
         <ReactSwipe
           className="carousel"
           swipeOptions={options}

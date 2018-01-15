@@ -1,0 +1,14 @@
+.footer {
+  background: #75666A;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  grid-column: span 12;
+}
+
+.footer a {
+  color: #CCCCCC;
+}

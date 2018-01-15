@@ -6,27 +6,37 @@ import './standard.css';
 
 const StandardLayout = props => {
   const { disableSlideshow } = props;
-  if (props.activeSlideIndex && !disableSlideshow) {
+  if (props.activeSlideIndex >= 0 && !disableSlideshow) {
     return <SlideshowLayout {...props} />;
   }
   return (
-    <div>
-      <h1>{props.title}</h1>
-      {props.galleries.map(gallery => (
-        <div>
-          <div dangerouslySetInnerHTML={{ __html: gallery.description }} />
-          <div className="subgallery">
-            {gallery.gallery.map((galleryItem, index) => (
+    <div className="gallery--page gallery--standard">
+      <h1 className="gallery__title">{props.title}</h1>
+      {props.galleries.map(gallery => [
+        <div
+          className="gallery__desc"
+          dangerouslySetInnerHTML={{ __html: gallery.description }}
+        />,
+        <div className="subgallery">
+          {gallery.gallery.map((galleryItem, index) => (
+            <figure className="placeholder">
               <img
-                width="175"
-                height="175"
                 src={galleryItem.thumbnail}
-                onClick={disableSlideshow ? () => {} : () => props.handleImageClick(index)}
+                onClick={
+                  disableSlideshow
+                    ? () => {}
+                    : () => props.handleImageClick(index)
+                }
+                className={
+                  disableSlideshow
+                    ? 'subgallery__image'
+                    : 'subgallery__image subgallery__image--clickable'
+                }
               />
-            ))}
-          </div>
+            </figure>
+          ))}
         </div>
-      ))}
+      ])}
     </div>
   );
 };

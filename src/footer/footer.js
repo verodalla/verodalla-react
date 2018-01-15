@@ -5,7 +5,7 @@ import './footer.css';
 
 const Footer = () => {
   return (
-    <footer className="nav">
+    <footer className="footer">
       <div
         dangerouslySetInnerHTML={{
           __html: Object.keys(data).reduce((acc, curr) => {

@@ -16,9 +16,11 @@ const Nav = () => {
     <nav className="nav">
       <ul className="nav__list">
         {<NavEntry {...data.main} className={'nav__item nav__item--main'} />}
+        <li className="nav__social"><ul>
         {data.social.map(datum => (
           <NavEntry {...datum} className="nav__item" />
         ))}
+        </ul></li>
       </ul>
     </nav>
   );

@@ -1,0 +1,21 @@
+.layout {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: 60px auto 80px;
+  /*padding: 0 40px;*/
+  grid-gap: 80px;
+}
+
+.placeholder {
+  position: relative;
+  padding-top: 100%;
+  background: #cccccc;
+}
+
+.placeholder img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}

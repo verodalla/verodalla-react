@@ -1,0 +1,6 @@
+.gallery--page {
+  grid-column: 2 / 12;
+
+/*  display: inline-grid;
+  grid-template-columns: repeat(10, 1fr);*/
+}

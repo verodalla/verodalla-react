@@ -2,13 +2,15 @@ import React, { PureComponent } from 'react';
 import data from '../data.json';
 import determineLayout from './determine_layout';
 
+import './page.css';
+
 class Page extends PureComponent {
   constructor() {
     super();
     this.handleImageClick = this.handleImageClick.bind(this);
     this.close = this.close.bind(this);
     this.state = {
-      activeSlideIndex: false
+      activeSlideIndex: -1
     };
   }
 
@@ -17,7 +19,7 @@ class Page extends PureComponent {
   }
 
   close() {
-    this.setState({ activeSlideIndex: false });
+    this.setState({ activeSlideIndex: -1 });
   }
 
   render() {
@@ -33,16 +35,14 @@ class Page extends PureComponent {
       }
     });
 
-    return (
-      <div>
-        {determineLayout(
+    return determineLayout(
           found,
           this.handleImageClick,
           this.close,
           this.state.activeSlideIndex
-        )}
-      </div>
-    );
+        )
+
+
   }
 }
 

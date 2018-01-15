@@ -3,8 +3,8 @@ import './vertical.css';
 
 const VerticalLayout = props => {
   return (
-    <div>
-      <h1>{props.title} Vertical</h1>
+    <div className="gallery--page">
+      <h1>{props.title}</h1>
       {props.galleries.map(gallery => (
         <div className="layout--vertical">
           <div
