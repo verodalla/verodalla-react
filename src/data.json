@@ -123,7 +123,7 @@
     "galleries": [
       {
         "description":
-          "<p>&laquo; Not really man, not really woman,</p><p>Not yellow, nor grey, black, or white,</p><p>Not from the left, not from the right,</p><p>Not from the top, nor from the bottom,<br>And yet&hellip;\"<br>\"&hellip;They're naked without being naked.<br>They carry no connotations, they are us in the plural.<br>The only thing distinguishing them is movement, movement that is the sign of life, gesture, appeal...<br>I wanted them to be light, gracious,<br>thumbnails conveying the best of us.<br>They are us and vice versa.<br>Looking at them helps us to understand ourselves...\"<br>Interview by Pierre Anglade</p><p>Verodalla has already completed 750 different LivenLuLu. More than 650 have been sold, and it's just a beginning&hellip;</p>",
+          "<p>A human being it&rsquo;s who we are as a form of life, when individual it&rsquo;s this human being deformed by the filters of the society.</p><p>The first filter will be the gender. Whatever your color, your religion, your culture&hellip;we face <em>gender-phobia</em> everywhere.</p><p>After the gender, the heavy racial discrimination. Studies show that children have no concept of racism&hellip;it&rsquo;s teaches by the environment.</p><p>After, we have religions&hellip;one more time. Completely created by individuals, whatever their reasons.</p><p>At the same level, we will also find culture, which is a compilation of all complexities created&hellip;consolidates by history.</p><p>After that you will also face social environment, professional field, handicaps, particular abilities, or whatever that will make <strong>others</strong> feel &ldquo;different&rdquo;.</p><p>So our society in its integrity is created around filters. We have to deal with that every single day, in the simplest routine of our life.</p><p>Where I believe we are part of a whole, we are all connected, and our interaction has consequences in a bigger plan than our-self. A believe I experienced during a clinic death when I was 10 years old and challenged everyday since.</p><p>So, I created a character design without exterior distinctive signs: no real gender, no color, no religion&rsquo;s reference, no social environment, no distinction, only the representation of the human being we are deeply inside. The LivenLuLu is here to remind us we are all human being before to be an individual of this society. By the movements I express emotions, they define who we are, since our life is dictate by those feelings. I open a dialogue between your true self as a human being, by touching a deep part of you and your individual side, in your daily life.</p>",
         "gallery": [
           {
             "thumbnail": "/livenlulu/thumbnails/3AR-42-US.2.jpg",
@@ -566,6 +566,7 @@
     "title": "Recent Exhibitions",
     "link": "/recent-exhibitions",
     "image": "/exhibits.jpg",
+    "disableSlideshow": true,
     "galleries": [
       {
         "description":
@@ -721,6 +722,8 @@
     "link": "/press",
     "image": "/press.jpg",
     "layout": "press",
+    "americanFlag": "/United-States.png",
+    "frenchFlag": "/France-flat-icon.png",
     "galleries": [
       {
         "gallery": [
