@@ -6,3 +6,13 @@
   width: 100%;
   display: block;
 }
+
+.gallery-item figcaption {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gallery-item__title {
+  font-size: 1.5em;
+}

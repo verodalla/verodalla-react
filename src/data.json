@@ -728,103 +728,103 @@
       {
         "gallery": [
           {
-            "thumbnail": "/press/Le bien public.jpg",
+            "thumbnail": "/press/thumbnails/Le bien public.jpg",
              "width": "509",
             "height": "99",
-            "french": "articles/Bien_Public/FR_2009_dec.jpg",
+            "french": "/articles/Bien_Public/FR_2009_dec.jpg",
             "english": "",
             "name": "Le Bien Public"
           },
           {
-            "thumbnail": "/press/cde.jpg",
+            "thumbnail": "/press/thumbnails/cde.jpg",
              "width": "354",
             "height": "354",
             "french":
-              "articles/Caisse_d_Epargne/FR-Verodalla&nbsp;CEP-avril-2009.pdf",
+              "/articles/Caisse_d_Epargne/FR-Verodalla&nbsp;CEP-avril-2009.pdf",
             "english":
-              "articles/Caisse_d_Epargne/ANG-Verodalla&nbsp;CEP-avril-2009-copy.pdf",
+              "/articles/Caisse_d_Epargne/ANG-Verodalla&nbsp;CEP-avril-2009-copy.pdf",
             "name": "Caisse_d_Epargne"
           },
           {
-            "thumbnail": "/press/aah.png",
+            "thumbnail": "/press/thumbnails/aah.png",
              "width": "200",
             "height": "200",
             "french": "",
             "english":
-              "articles/Action_against_Hunger-Charity_buzz/ANG-Collaboration-with-Action-Against-Hunger.pdf",
+              "/articles/Action_against_Hunger-Charity_buzz/ANG-Collaboration-with-Action-Against-Hunger.pdf",
             "name": "Action Against Hunger"
           },
           {
-            "thumbnail": "/press/sh.jpg",
+            "thumbnail": "/press/thumbnails/sh.jpg",
              "width": "300",
             "height": "272",
             "french": "",
             "english":
-              "articles/Showtime_House/ANG-The-Showtime-House-at-Cassa-Hotel.pdf",
+              "/articles/Showtime_House/ANG-The-Showtime-House-at-Cassa-Hotel.pdf",
             "name": "Showtime House"
           },
           {
-            "thumbnail": "/press/charity-buzz.png",
+            "thumbnail": "/press/thumbnails/charity-buzz.png",
              "width": "506",
             "height": "164",
             "french": "",
             "english":
-              "articles/Action_against_Hunger-Charity_buzz/ANG-charity-buzz.pdf",
+              "/articles/Action_against_Hunger-Charity_buzz/ANG-charity-buzz.pdf",
             "name": "Charity Buzzz"
           },
           {
-            "thumbnail": "/press/Dijon Mag.jpg",
+            "thumbnail": "/press/thumbnails/Dijon Mag.jpg",
             "width": "1263",
             "height": "1618",
             "french":
-              "articles/Dijon_Beaune_Mag/Fr-Bienvenue-a-Livenlululand-National-2012.pdf",
+              "/articles/Dijon_Beaune_Mag/Fr-Bienvenue-a-Livenlululand-National-2012.pdf",
             "english":
-              "articles/Dijon_Beaune_Mag/ANG-Bienvenue-a-Livenlululand-National-2012-copy.pdf",
+              "/articles/Dijon_Beaune_Mag/ANG-Bienvenue-a-Livenlululand-National-2012-copy.pdf",
             "name": "Dijone Beaune Magazine"
           },
           {
-            "thumbnail": "/press/cover T&T.jpg",
+            "thumbnail": "/press/thumbnails/cover T&T.jpg",
              "width": "2480",
             "height": "3437",
             "french":
-              "articles/Towns_Territories/FR-La-vie-habillee-en-robe-rouge-National-bis.pdf",
+              "/articles/Towns_Territories/FR-La-vie-habillee-en-robe-rouge-National-bis.pdf",
             "english":
-              "articles/Towns_Territories/ANG-La-vie-habillee-en-robe-rouge-National-.pdf",
+              "/articles/Towns_Territories/ANG-La-vie-habillee-en-robe-rouge-National-.pdf",
             "name": "Towns And Terrirtories"
           },
           {
-            "thumbnail": "/press/shani_camillemaurice.jpg",
+            "thumbnail": "/press/thumbnails/shani_camillemaurice.jpg",
             "french": "",
             "english":
-              "href=\"articles/Camille_Maurice/ANG-camille-maurice.pdf\" download",
+              "href=\"/articles/Camille_Maurice/ANG-camille-maurice.pdf\" download",
             "name": "Camille Maurice"
           },
           {
-            "thumbnail": "/press/logo-jdp-bourgogne.jpg",
+            "thumbnail": "/press/thumbnails/logo-jdp-bourgogne.jpg",
              "width": "560",
             "height": "141",
-            "french": "articles/journal_du_palais/journal-du-palais.pdf\"",
-            "english": "articles/journal_du_palais/ANGL-Journal-du-Palais.pdf",
+            "french": "/articles/journal_du_palais/journal-du-palais.pdf\"",
+            "english": "/articles/journal_du_palais/ANGL-Journal-du-Palais.pdf",
             "name": " Journal du Palais"
           },
           {
-            "thumbnail": "/press/logo-VoixduNord.png",
+            "thumbnail": "/press/thumbnails/logo-VoixduNord.png",
              "width": "320",
             "height": "239",
-            "french": "articles/La_Voix_du_Nord/FR-Ladies-Circle-oct-07.pdf",
-            "english": "articles/La_Voix_du_Nord/ANG-Ladies-Circle-oct-07-.pdf",
+            "french": "/articles/La_Voix_du_Nord/FR-Ladies-Circle-oct-07.pdf",
+            "english": "/articles/La_Voix_du_Nord/ANG-Ladies-Circle-oct-07-.pdf",
             "name": "La Voix Du Nord"
           },
           {
-            "thumbnail": "/press/eqarts.jpg",
+            "thumbnail": "/press/thumbnails/eqarts.jpg",
              "width": "722",
             "height": "1000",
-            "french": "articles/Equarts/FR-Verodalla-Equarts.pdf",
-            "english": "articles/Equarts/ANG-Verodalla-Equarts.pdf",
+            "french": "/articles/Equarts/FR-Verodalla-Equarts.pdf",
+            "english": "/articles/Equarts/ANG-Verodalla-Equarts.pdf",
             "name": "Equarts"
           },
           {
-            "thumbnail": "/press/France Bleue Borurgogne.jpg",
+            "thumbnail": "/press/thumbnails/France Bleue Borurgogne.jpg",
              "width": "225",
             "height": "225",
             "french": "",
@@ -832,41 +832,41 @@
             "name": "France Bleue Bourgogne"
           },
           {
-            "thumbnail": "/press/French Morning.png",
+            "thumbnail": "/press/thumbnails/French Morning.png",
             "french":
-              "articles/French_Morning/FR-Expo-french-morning-june12.pdf",
+              "/articles/French_Morning/FR-Expo-french-morning-june12.pdf",
             "english":
-              "articles/French_Morning/ANG-Expo-french-morning-june12-copy.pdf",
+              "/articles/French_Morning/ANG-Expo-french-morning-june12-copy.pdf",
             "name": "French Morning"
           },
           {
-            "thumbnail": "/press/High End.jpg",
+            "thumbnail": "/press/thumbnails/High End.jpg",
              "width": "280",
             "height": "280",
             "french": "",
             "english":
-              "articles/High_end_Weekly/ANG-Meet-Veronique-Dalla-FaveraVyna.pdf",
+              "/articles/High_end_Weekly/ANG-Meet-Veronique-Dalla-FaveraVyna.pdf",
             "name": " High End Weekly"
           },
           {
-            "thumbnail": "/press/Land of .jpg",
+            "thumbnail": "/press/thumbnails/Land of .jpg",
              "width": "400",
             "height": "90",
             "french":
-              "articles/Land_of_compassion/FR-VeroDallaterre-de-compassionjuin-12.pdf",
-            "english": "articles/Land_of_compassion/ANG-Land-of-compassion.pdf",
+              "/articles/Land_of_compassion/FR-VeroDallaterre-de-compassionjuin-12.pdf",
+            "english": "/articles/Land_of_compassion/ANG-Land-of-compassion.pdf",
             "name": " Land of Compassion"
           },
           {
-            "thumbnail": "/press/Le Point NY.jpg",
+            "thumbnail": "/press/thumbnails/Le Point NY.jpg",
              "width": "250",
             "height": "363",
-            "french": "articles/Le_point/FR-le-point1-1.pdf",
+            "french": "/articles/Le_point/FR-le-point1-1.pdf",
             "english": "",
             "name": "Le Point"
           },
           {
-            "thumbnail": "/press/NBC4NewYork.jpg",
+            "thumbnail": "/press/thumbnails/NBC4NewYork.jpg",
              "width": "1200",
             "height": "675",
             "french": "",
@@ -874,37 +874,37 @@
             "name": "NBC4 New York"
           },
           {
-            "thumbnail": "/press/TV Net Bourgogne.jpg",
+            "thumbnail": "/press/thumbnails/TV Net Bourgogne.jpg",
              "width": "280",
             "height": "280",
             "french":
-              "articles/TV_Net_Bourgogne/FR-interview-TVnet-bourgogne.pdf",
+              "/articles/TV_Net_Bourgogne/FR-interview-TVnet-bourgogne.pdf",
             "english":
-              "articles/TV_Net_Bourgogne/ANG-interview-TVnet-bourgogne.pdf",
+              "/articles/TV_Net_Bourgogne/ANG-interview-TVnet-bourgogne.pdf",
             "name": "TV Net Bourgogne"
           },
           {
-            "thumbnail": "/press/Ubifrance.jpg",
+            "thumbnail": "/press/thumbnails/Ubifrance.jpg",
              "width": "591",
             "height": "299",
             "french":
-              "articles/UbiFrance/FR-Success-Story-Ubifrance-Internationale-2011.pdf",
+              "/articles/UbiFrance/FR-Success-Story-Ubifrance-Internationale-2011.pdf",
             "english":
-              "articles/UbiFrance/ANG-Success-Story-Ubifrance-Internationale-2011.pdf",
+              "/articles/UbiFrance/ANG-Success-Story-Ubifrance-Internationale-2011.pdf",
             "name": "UbiFrance"
           },
           {
-            "thumbnail": "/press/le-journal-de-saone-et-loire.jpg",
+            "thumbnail": "/press/thumbnails/le-journal-de-saone-et-loire.jpg",
              "width": "300",
             "height": "300",
             "french":
-              "articles/Journal_de_Saone_et_Loire/FR-2008-juin-copy.jpg",
+              "/articles/Journal_de_Saone_et_Loire/FR-2008-juin-copy.jpg",
             "english":
-              "articles/Journal_de_Saone_et_Loire/ANG-Saone-et-Loire.pdf",
+              "/articles/Journal_de_Saone_et_Loire/ANG-Saone-et-Loire.pdf",
             "name": "Journal de Saone et Loire"
           },
           {
-            "thumbnail": "/press/logo-Observateur-Avesnois.gif",
+            "thumbnail": "/press/thumbnails/logo-Observateur-Avesnois.gif",
              "width": "350",
             "height": "77",
             "french": "",

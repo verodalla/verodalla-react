@@ -23,11 +23,36 @@
 
 .nav__item {
   height: 20px;
+  font-size: 2em;
+  position: relative;
+  color: #909090;
+}
+
+.nav__item--twitter {
+  font-size: 3em;
+  top: -5px;
+}
+
+.nav__item--instagram {
+  font-size: 2.1em;
+  /*top: -1px;*/
+}
+
+.nav__item--mail {
+  font-size: 2.33em;
+  top: 0px;
+}
+
+.nav__item--facebook {
+  font-size: 1.33em;
+  top: 5px;
 }
 
 .nav__item--main {
   width: 150px;
   height: auto;
+
+  top: 11px;
 }
 
 .nav__item img {

@@ -15,14 +15,14 @@ const PressLayout = props => {
                   <img className="image--press" src={galleryItem.thumbnail}  />
                 </figure>
                 {galleryItem.french ? (
-                  <a title="" href={galleryItem.french} download>
+                  <a title="French Language Resource" href={galleryItem.french} download>
                     <img src={props.frenchFlag} alt="" className="flag flag--french"/>{' '}
                   </a>
                 ) : (
                   ''
                 )}
                 {galleryItem.english ? (
-                  <a title="" href={galleryItem.english} download>
+                  <a title="English Language Resource" href={galleryItem.english} download>
                     <img src={props.americanFlag} alt="" className="flag flag--english" />{' '}
                   </a>
                 ) : (

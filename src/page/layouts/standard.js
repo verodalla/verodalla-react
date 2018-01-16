@@ -19,20 +19,23 @@ const StandardLayout = props => {
         />,
         <div className="subgallery">
           {gallery.gallery.map((galleryItem, index) => (
-            <figure className="placeholder">
-              <img
-                src={galleryItem.thumbnail}
-                onClick={
-                  disableSlideshow
-                    ? () => {}
-                    : () => props.handleImageClick(index)
-                }
-                className={
-                  disableSlideshow
-                    ? 'subgallery__image'
-                    : 'subgallery__image subgallery__image--clickable'
-                }
-              />
+            <figure
+              className={`placeholder animate-caption subgallery__item ${disableSlideshow
+                ? ''
+                : 'subgallery__item--clickable'}`}
+              onClick={
+                disableSlideshow
+                  ? () => {}
+                  : () => props.handleImageClick(index)
+              }
+            >
+              <img className="subgallery__image" src={galleryItem.thumbnail} />
+              <figcaption>
+                <h3>{galleryItem.name}</h3>
+                <p>{galleryItem.materials}</p>
+                <p>{galleryItem.dimensions}</p>
+                <p>{galleryItem.year}</p>
+              </figcaption>
             </figure>
           ))}
         </div>
