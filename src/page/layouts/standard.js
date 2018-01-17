@@ -9,6 +9,21 @@ const StandardLayout = props => {
   if (props.activeSlideIndex >= 0 && !disableSlideshow) {
     return <SlideshowLayout {...props} />;
   }
+
+  const determineClassName = (disableSlideshow, hasCaption) => {
+    const baseClasses = ['placeholder', 'subgallery__item'];
+
+    if (!disableSlideshow) {
+      baseClasses.push('subgallery__item--clickable');
+    }
+
+    if (hasCaption) {
+      baseClasses.push('animate-caption');
+    }
+
+    return baseClasses.join(' ');
+  }
+
   return (
     <div className="gallery--page gallery--standard">
       <h1 className="gallery__title">{props.title}</h1>
@@ -20,9 +35,7 @@ const StandardLayout = props => {
         <div className="subgallery">
           {gallery.gallery.map((galleryItem, index) => (
             <figure
-              className={`placeholder animate-caption subgallery__item ${disableSlideshow
-                ? ''
-                : 'subgallery__item--clickable'}`}
+              className={determineClassName(disableSlideshow, galleryItem.name)}
               onClick={
                 disableSlideshow
                   ? () => {}

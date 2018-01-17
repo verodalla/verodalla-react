@@ -34,15 +34,17 @@ class Slider extends PureComponent {
   render() {
     const { activeSlideIndex, images, close } = this.props;
     const options = {
-      continuous: false,
+      continuous: true,
       startSlide: activeSlideIndex,
       callback: (index, elem) => {
         this.lazyLoad(elem);
       }
     };
 
+
+
     return (
-      <div className="gallery--page">
+      <div className="gallery--page gallery--slideshow">
         <ReactSwipe
           className="carousel"
           swipeOptions={options}
@@ -50,8 +52,10 @@ class Slider extends PureComponent {
           ref={reactSwipe => (this.reactSwipe = reactSwipe)}
         >
           {images.map((galleryItem, index) => {
-            const preloadedImg = <img src={galleryItem.image} />;
-            const toBeLazyLoaded = <img data-src={galleryItem.image} />;
+            const aspectRatio = galleryItem.height / galleryItem.width;
+            const isPortraitOrientation = aspectRatio >= 0.70;
+            const preloadedImg = <img src={galleryItem.image} className={isPortraitOrientation ? 'portrait' : ''}/>;
+            const toBeLazyLoaded = <img data-src={galleryItem.image} className={isPortraitOrientation ? 'portrait' : ''} />;
             return (
               <div>
                 <figure>
@@ -61,20 +65,24 @@ class Slider extends PureComponent {
             );
           })}
         </ReactSwipe>
-        <div>
-          <h3>{images[this.state.currentlyActiveSlideIndex].name}</h3>
-          <p>{images[this.state.currentlyActiveSlideIndex].materials}</p>
-          <p>{images[this.state.currentlyActiveSlideIndex].dimensions}</p>
-          <p>{images[this.state.currentlyActiveSlideIndex].year}</p>
+        <div className="gallery__metadata">
+          <div>
+            <h3>{images[this.state.currentlyActiveSlideIndex].name}</h3>
+            <p>{images[this.state.currentlyActiveSlideIndex].materials}</p>
+            <p>{images[this.state.currentlyActiveSlideIndex].dimensions}</p>
+            <p>{images[this.state.currentlyActiveSlideIndex].year}</p>
+          </div>
         </div>
-        <div className="carousel-controls">
-          <button type="button" className="carousel-controls__button" onClick={this.prev}>
+        <div className="gallery__controls">
+          <div className="gallery__arrows">
+          <button type="button" className="gallery__button" onClick={this.prev}>
             <i className="icon-circle-left" />
           </button>
-          <button type="button" className="carousel-controls__button" onClick={this.next}>
+          <button type="button" className="gallery__button" onClick={this.next}>
             <i className="icon-circle-right" />
           </button>
-          <button type="button" className="carousel-controls__button" onClick={close}>
+          </div>
+          <button type="button" className="gallery__button" onClick={close}>
             <i className="icon-fat-close" />
           </button>
         </div>

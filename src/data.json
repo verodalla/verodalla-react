@@ -11,6 +11,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_14.jpg",
             "image": "/inner_journey/IJ 14.jpg",
+            "width": "1920",
+            "height": "1280",
             "name": "Inner Journey Nº14",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "54\" x 64\"",
@@ -19,6 +21,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_12.jpg",
             "image": "/inner_journey/IJ 12.jpg",
+            "width": "3264",
+            "height": "2448",
             "name": "Inner Journey Nº12",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "49\" x 64\"",
@@ -27,6 +31,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_11.jpg",
             "image": "/inner_journey/IJ 11.jpg",
+            "width": "1968",
+            "height": "1992",
             "name": "Inner Journey Nº11",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "45\" x 52\"",
@@ -35,6 +41,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_10.jpg",
             "image": "/inner_journey/IJ 10.jpg",
+            "width": "2064",
+            "height": "1931",
             "name": "Inner Journey Nº10",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "42\" x 47\"",
@@ -43,6 +51,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_9.jpg",
             "image": "/inner_journey/IJ 9.jpg",
+            "width": "3249",
+            "height": "2980",
             "name": "Inner Journey Nº9",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "Triptych 3 x 55\" x 19\"",
@@ -51,6 +61,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_8.jpg",
             "image": "/inner_journey/IJ 8.jpg",
+            "width": "1181",
+            "height": "784",
             "name": "Inner Journey Nº8",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "Diptych 2 x 39\" x 27\"",
@@ -59,6 +71,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_7.jpg",
             "image": "/inner_journey/IJ 7.jpg",
+            "width": "1601",
+            "height": "1610",
             "name": "Inner Journey Nº7",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "15\" x 15\"",
@@ -67,6 +81,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_6.jpg",
             "image": "/inner_journey/IJ 6.jpg",
+            "width": "1215",
+            "height": "1222",
             "name": "Inner Journey Nº6",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "15\" x 15\"",
@@ -75,6 +91,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_5.jpg",
             "image": "/inner_journey/IJ 5.jpg",
+            "width": "1226",
+            "height": "1222",
             "name": "Inner Journey Nº5",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "15\" x 15\"",
@@ -83,6 +101,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_4.jpg",
             "image": "/inner_journey/IJ 4.jpg",
+            "width": "1481",
+            "height": "1610",
             "name": "Inner Journey Nº4",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "Triptych 3 x 39\"x 12\"",
@@ -91,6 +111,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_3.jpg",
             "image": "/inner_journey/IJ 3.jpg",
+            "width": "2018",
+            "height": "2535",
             "name": "Inner Journey Nº3",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "39\" x 19'",
@@ -99,6 +121,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_2.jpg",
             "image": "/inner_journey/IJ 2.jpg",
+            "width": "2481",
+            "height": "832",
             "name": "Inner Journey Nº2",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "15\" x 47\"",
@@ -107,6 +131,8 @@
           {
             "thumbnail": "/inner_journey/thumbnails/ij_1.jpg",
             "image": "/inner_journey/IJ 1.jpg",
+            "width": "1614",
+            "height": "1610",
             "name": "Inner Journey Nº1",
             "materials": "Mineral paste, wood and acrylic",
             "dimensions": "39\" x 39\"",
@@ -126,299 +152,447 @@
           "<p>A human being it&rsquo;s who we are as a form of life, when individual it&rsquo;s this human being deformed by the filters of the society.</p><p>The first filter will be the gender. Whatever your color, your religion, your culture&hellip;we face <em>gender-phobia</em> everywhere.</p><p>After the gender, the heavy racial discrimination. Studies show that children have no concept of racism&hellip;it&rsquo;s teaches by the environment.</p><p>After, we have religions&hellip;one more time. Completely created by individuals, whatever their reasons.</p><p>At the same level, we will also find culture, which is a compilation of all complexities created&hellip;consolidates by history.</p><p>After that you will also face social environment, professional field, handicaps, particular abilities, or whatever that will make <strong>others</strong> feel &ldquo;different&rdquo;.</p><p>So our society in its integrity is created around filters. We have to deal with that every single day, in the simplest routine of our life.</p><p>Where I believe we are part of a whole, we are all connected, and our interaction has consequences in a bigger plan than our-self. A believe I experienced during a clinic death when I was 10 years old and challenged everyday since.</p><p>So, I created a character design without exterior distinctive signs: no real gender, no color, no religion&rsquo;s reference, no social environment, no distinction, only the representation of the human being we are deeply inside. The LivenLuLu is here to remind us we are all human being before to be an individual of this society. By the movements I express emotions, they define who we are, since our life is dictate by those feelings. I open a dialogue between your true self as a human being, by touching a deep part of you and your individual side, in your daily life.</p>",
         "gallery": [
           {
+            "width": 1196,
+            "height": 1176,
             "thumbnail": "/livenlulu/thumbnails/3AR-42-US.2.jpg",
             "image": "/livenlulu/3AR-42-US.2.jpg"
           },
           {
+            "height": 1268,
+            "width": 1372,
             "thumbnail": "/livenlulu/thumbnails/3LLL-A20-US.2.jpg",
             "image": "/livenlulu/3LLL-A20-US.2.jpg"
           },
           {
+            "height": 1260,
+            "width": 1268,
             "thumbnail": "/livenlulu/thumbnails/3LLL-A23-US.2.jpg",
             "image": "/livenlulu/3LLL-A23-US.2.jpg"
           },
           {
+            "height": 1072,
+            "width": 1479,
             "thumbnail": "/livenlulu/thumbnails/3LLL-A26B-US.2.jpg",
             "image": "/livenlulu/3LLL-A26B-US.2.jpg"
           },
           {
+            "height": 1295,
+            "width": 1207,
             "thumbnail": "/livenlulu/thumbnails/3LLL-A44S.2.jpg",
             "image": "/livenlulu/3LLL-A44S.2.jpg"
           },
           {
+            "height": 1303,
+            "width": 1407,
             "thumbnail": "/livenlulu/thumbnails/3LLL-A50S.2.jpg",
             "image": "/livenlulu/3LLL-A50S.2.jpg"
           },
           {
+            "height": 932,
+            "width": 1453,
             "thumbnail": "/livenlulu/thumbnails/3LLL-A53S.2.jpg",
             "image": "/livenlulu/3LLL-A53S.2.jpg"
           },
           {
+            "height": 1088,
+            "width": 1127,
             "thumbnail": "/livenlulu/thumbnails/3LLL-A60-US.2.jpg",
             "image": "/livenlulu/3LLL-A60-US.2.jpg"
           },
           {
+            "height": 753,
+            "width": 906,
             "thumbnail": "/livenlulu/thumbnails/3LLL-A61-US.2.jpg",
             "image": "/livenlulu/3LLL-A61-US.2.jpg"
           },
           {
+            "height": 1016,
+            "width": 1034,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR37-US.2.jpg",
             "image": "/livenlulu/3LLL-AR37-US.2.jpg"
           },
           {
+            "height": 2592,
+            "width": 1793,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR37-US.jpg",
             "image": "/livenlulu/3LLL-AR37-US.jpg"
           },
           {
+            "height": 2592,
+            "width": 1808,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR37B-US.jpg",
             "image": "/livenlulu/3LLL-AR37B-US.jpg"
           },
           {
+            "height": 2592,
+            "width": 1788,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR39-US.jpg",
             "image": "/livenlulu/3LLL-AR39-US.jpg"
           },
           {
+            "height": 843,
+            "width": 1104,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR53S.2.jpg",
             "image": "/livenlulu/3LLL-AR53S.2.jpg"
           },
           {
+            "height": 2080,
+            "width": 2080,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR53S.jpg",
             "image": "/livenlulu/3LLL-AR53S.jpg"
           },
           {
+            "height": 2303,
+            "width": 2302,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR55S.jpg",
             "image": "/livenlulu/3LLL-AR55S.jpg"
           },
           {
+            "height": 1011,
+            "width": 995,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR60US.2.jpg",
             "image": "/livenlulu/3LLL-AR60US.2.jpg"
           },
           {
+            "height": 776,
+            "width": 867,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR61US.2.jpg",
             "image": "/livenlulu/3LLL-AR61US.2.jpg"
           },
           {
+            "height": 1937,
+            "width": 1705,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR62US.jpg",
             "image": "/livenlulu/3LLL-AR62US.jpg"
           },
           {
+            "height": 2138,
+            "width": 1968,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR64US.A.jpg",
             "image": "/livenlulu/3LLL-AR64US.A.jpg"
           },
           {
+            "height": 648,
+            "width": 1034,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR69US.2.jpg",
             "image": "/livenlulu/3LLL-AR69US.2.jpg"
           },
           {
+            "height": 1656,
+            "width": 2294,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR69US.jpg",
             "image": "/livenlulu/3LLL-AR69US.jpg"
           },
           {
+            "height": 1975,
+            "width": 2377,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR70US.jpg",
             "image": "/livenlulu/3LLL-AR70US.jpg"
           },
           {
+            "height": 1166,
+            "width": 1271,
             "thumbnail": "/livenlulu/thumbnails/3LLL-AR71US.2.jpg",
             "image": "/livenlulu/3LLL-AR71US.2.jpg"
           },
           {
+            "height": 1676,
+            "width": 2900,
             "thumbnail": "/livenlulu/thumbnails/3LLL-CCD12.jpg",
             "image": "/livenlulu/3LLL-CCD12.jpg"
           },
           {
+            "height": 1572,
+            "width": 902,
             "thumbnail": "/livenlulu/thumbnails/3LLL-CCD22S.2.jpg",
             "image": "/livenlulu/3LLL-CCD22S.2.jpg"
           },
           {
+            "height": 1199,
+            "width": 1176,
             "thumbnail": "/livenlulu/thumbnails/3LLL-CCD24.2.jpg",
             "image": "/livenlulu/3LLL-CCD24.2.jpg"
           },
           {
+            "height": 2592,
+            "width": 2230,
             "thumbnail": "/livenlulu/thumbnails/3LLL-CPLE10-US.jpg",
             "image": "/livenlulu/3LLL-CPLE10-US.jpg"
           },
           {
+            "height": 968,
+            "width": 908,
             "thumbnail": "/livenlulu/thumbnails/3LLL-CPLE11.2.jpg",
             "image": "/livenlulu/3LLL-CPLE11.2.jpg"
           },
           {
+            "height": 932,
+            "width": 1239,
             "thumbnail": "/livenlulu/thumbnails/3LLL-CPLE12-S.2.jpg",
             "image": "/livenlulu/3LLL-CPLE12-S.2.jpg"
           },
           {
+            "height": 2428,
+            "width": 3013,
             "thumbnail": "/livenlulu/thumbnails/3LLL-CPLE12-S.jpg",
             "image": "/livenlulu/3LLL-CPLE12-S.jpg"
           },
           {
+            "height": 1244,
+            "width": 1400,
             "thumbnail": "/livenlulu/thumbnails/3LLL-CPLE20-US.2.jpg",
             "image": "/livenlulu/3LLL-CPLE20-US.2.jpg"
           },
           {
+            "height": 1240,
+            "width": 1856,
             "thumbnail": "/livenlulu/thumbnails/3LLL-CPLE8-US2.jpg",
             "image": "/livenlulu/3LLL-CPLE8-US2.jpg"
           },
           {
+            "height": 986,
+            "width": 1087,
             "thumbnail": "/livenlulu/thumbnails/3LLL-EXT4-US.B.2.jpg",
             "image": "/livenlulu/3LLL-EXT4-US.B.2.jpg"
           },
           {
+            "height": 1165,
+            "width": 1478,
             "thumbnail": "/livenlulu/thumbnails/3LLL-EXT5-US.B.2.jpg",
             "image": "/livenlulu/3LLL-EXT5-US.B.2.jpg"
           },
           {
+            "height": 1030,
+            "width": 1012,
             "thumbnail": "/livenlulu/thumbnails/3LLL-EXT6-US.A.2.jpg",
             "image": "/livenlulu/3LLL-EXT6-US.A.2.jpg"
           },
           {
+            "height": 1028,
+            "width": 967,
             "thumbnail": "/livenlulu/thumbnails/3LLL-EXT8-US.B.2.jpg",
             "image": "/livenlulu/3LLL-EXT8-US.B.2.jpg"
           },
           {
+            "height": 1959,
+            "width": 2248,
             "thumbnail": "/livenlulu/thumbnails/3LLL-V18-US.jpg",
             "image": "/livenlulu/3LLL-V18-US.jpg"
           },
           {
+            "height": 1957,
+            "width": 1956,
             "thumbnail": "/livenlulu/thumbnails/3LLL-V6B-US.jpg",
             "image": "/livenlulu/3LLL-V6B-US.jpg"
           },
           {
+            "height": 2057,
+            "width": 2058,
             "thumbnail": "/livenlulu/thumbnails/3LLL-V8B-US.jpg",
             "image": "/livenlulu/3LLL-V8B-US.jpg"
           },
           {
+            "height": 816,
+            "width": 812,
             "thumbnail": "/livenlulu/thumbnails/3LLLAR59US.2a.jpg",
             "image": "/livenlulu/3LLLAR59US.2a.jpg"
           },
           {
+            "height": 2318,
+            "width": 2178,
             "thumbnail": "/livenlulu/thumbnails/3LLLAR59US.B.jpg",
             "image": "/livenlulu/3LLLAR59US.B.jpg"
           },
           {
+            "height": 780,
+            "width": 899,
             "thumbnail": "/livenlulu/thumbnails/3LLLAR80US.2.jpg",
             "image": "/livenlulu/3LLLAR80US.2.jpg"
           },
           {
+            "height": 1128,
+            "width": 1103,
             "thumbnail": "/livenlulu/thumbnails/3LLLCCD28US.2.jpg",
             "image": "/livenlulu/3LLLCCD28US.2.jpg"
           },
           {
+            "height": 1280,
+            "width": 1920,
             "thumbnail": "/livenlulu/thumbnails/DSC09269.jpg",
             "image": "/livenlulu/DSC09269.jpg"
           },
           {
+            "height": 630,
+            "width": 675,
             "thumbnail": "/livenlulu/thumbnails/DSC09276.2.jpg",
             "image": "/livenlulu/DSC09276.2.jpg"
           },
           {
+            "height": 376,
+            "width": 433,
             "thumbnail": "/livenlulu/thumbnails/DSC09282.2.jpg",
             "image": "/livenlulu/DSC09282.2.jpg"
           },
           {
+            "height": 585,
+            "width": 585,
             "thumbnail": "/livenlulu/thumbnails/DSC09308.2.jpg",
             "image": "/livenlulu/DSC09308.2.jpg"
           },
           {
+            "height": 593,
+            "width": 635,
             "thumbnail": "/livenlulu/thumbnails/DSC09314.2.jpg",
             "image": "/livenlulu/DSC09314.2.jpg"
           },
           {
+            "height": 636,
+            "width": 673,
             "thumbnail": "/livenlulu/thumbnails/DSC09326.2.jpg",
             "image": "/livenlulu/DSC09326.2.jpg"
           },
           {
+            "height": 994,
+            "width": 1033,
             "thumbnail": "/livenlulu/thumbnails/IMAG0673.2.jpg",
             "image": "/livenlulu/IMAG0673.2.jpg"
           },
           {
+            "height": 784,
+            "width": 1181,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-&-personnage-2.jpg",
             "image": "/livenlulu/LivenLulu-&-personnage-2.jpg"
           },
           {
+            "height": 784,
+            "width": 1181,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-&-personnage-3.jpg",
             "image": "/livenlulu/LivenLulu-&-personnage-3.jpg"
           },
           {
+            "height": 784,
+            "width": 1181,
             "thumbnail":
               "/livenlulu/thumbnails/LivenLulu-&-personnage-4B-3.jpg",
             "image": "/livenlulu/LivenLulu-&-personnage-4B-3.jpg"
           },
           {
+            "height": 784,
+            "width": 1181,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-&-personnage-5.jpg",
             "image": "/livenlulu/LivenLulu-&-personnage-5.jpg"
           },
           {
+            "height": 389,
+            "width": 438,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-16.jpg",
             "image": "/livenlulu/LivenLulu-16.jpg"
           },
           {
+            "height": 517,
+            "width": 537,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-18.jpg",
             "image": "/livenlulu/LivenLulu-18.jpg"
           },
           {
+            "height": 784,
+            "width": 1181,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-19.jpg",
             "image": "/livenlulu/LivenLulu-19.jpg"
           },
           {
+            "height": 413,
+            "width": 446,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-20.jpg",
             "image": "/livenlulu/LivenLulu-20.jpg"
           },
           {
+            "height": 784,
+            "width": 1181,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-21.jpg",
             "image": "/livenlulu/LivenLulu-21.jpg"
           },
           {
+            "height": 468,
+            "width": 475,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-22.jpg",
             "image": "/livenlulu/LivenLulu-22.jpg"
           },
           {
+            "height": 784,
+            "width": 1181,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-23.jpg",
             "image": "/livenlulu/LivenLulu-23.jpg"
           },
           {
+            "height": 1046,
+            "width": 2362,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-24.jpg",
             "image": "/livenlulu/LivenLulu-24.jpg"
           },
           {
+            "height": 698,
+            "width": 1575,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-25.jpg",
             "image": "/livenlulu/LivenLulu-25.jpg"
           },
           {
+            "height": 377,
+            "width": 395,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-27.jpg",
             "image": "/livenlulu/LivenLulu-27.jpg"
           },
           {
+            "height": 682,
+            "width": 697,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-28.jpg",
             "image": "/livenlulu/LivenLulu-28.jpg"
           },
           {
+            "height": 784,
+            "width": 1095,
             "thumbnail": "/livenlulu/thumbnails/LivenLulu-8.jpg",
             "image": "/livenlulu/LivenLulu-8.jpg"
           },
           {
+            "height": 1046,
+            "width": 1575,
             "thumbnail": "/livenlulu/thumbnails/Univers-Atelier-Liv-30C107.jpg",
             "image": "/livenlulu/Univers-Atelier-Liv-30C107.jpg"
           },
           {
+            "height": 504,
+            "width": 530,
             "thumbnail": "/livenlulu/thumbnails/Univers-LivenLulu-1-2.jpg",
             "image": "/livenlulu/Univers-LivenLulu-1-2.jpg"
           },
           {
+            "height": 784,
+            "width": 1181,
             "thumbnail": "/livenlulu/thumbnails/Univers-LivenLulu-4.jpg",
             "image": "/livenlulu/Univers-LivenLulu-4.jpg"
           },
           {
+            "height": 446,
+            "width": 504,
             "thumbnail": "/livenlulu/thumbnails/Univers-LivenLulu-5.jpg",
             "image": "/livenlulu/Univers-LivenLulu-5.jpg"
           },
           {
+            "height": 681,
+            "width": 606,
             "thumbnail": "/livenlulu/thumbnails/Univers-LivenLulu-8.jpg",
             "image": "/livenlulu/Univers-LivenLulu-8.jpg"
           },
           {
+            "height": 776,
+            "width": 1181,
             "thumbnail": "/livenlulu/thumbnails/Univers-LivenLulu-9B.jpg",
             "image": "/livenlulu/Univers-LivenLulu-9B.jpg"
           },
           {
+            "height": 863,
+            "width": 1575,
             "thumbnail": "/livenlulu/thumbnails/Univers-dortoir-LivenLulu.jpg",
             "image": "/livenlulu/Univers-dortoir-LivenLulu.jpg"
           }
@@ -436,6 +610,8 @@
           "<p>Picking a poppy will change her life in art. Upon such a revelation, she will leave in search of beauty, harmony, well-being, balance.</p><p><em>La cueillette d'un coquelicot fera basculer sa vie dans l'art. Telle une r&eacute;v&eacute;lation, elle partira &agrave; la recherche du beau, de l'harmonie, du bien &ecirc;tre, de l'&eacute;quilibre.</em></p><p>Each piece reveals itself as sober, refined, soothing, cheerful, simple and sometimes obvious.</p>",
         "gallery": [
           {
+            "height": 3872,
+            "width": 2592,
             "thumbnail": "/poppies/thumbnails/coquelicot_au_vent_blanc.jpg",
             "image": "/poppies/coquelicot_au_vent_blanc.jpg",
             "name": "Coquelicots au Vent Blanc",
@@ -444,6 +620,8 @@
             "year": 2009
           },
           {
+            "height": 3872,
+            "width": 2592,
             "thumbnail": "/poppies/thumbnails/coquelicot_au_vent_rouge.jpg",
             "image": "/poppies/coquelicot_au_vent_rouge.jpg",
             "name": "Coquelicots au Vent Rouge",
@@ -452,6 +630,8 @@
             "year": 2009
           },
           {
+            "height": 2592,
+            "width": 3872,
             "thumbnail": "/poppies/thumbnails/coquelicots_au_vent.jpg",
             "image": "/poppies/coquelicots_au_vent.jpg",
             "name": "Coquelicots au Vent Rouge",
@@ -460,6 +640,8 @@
             "year": 2009
           },
           {
+            "height": 1836,
+            "width": 1832,
             "thumbnail": "/poppies/thumbnails/coquelicots_en_ble.jpg",
             "image": "/poppies/coquelicots_en_ble.jpg",
             "name": "Coquelicots en Blé",
@@ -468,6 +650,8 @@
             "year": 2008
           },
           {
+            "height": 937,
+            "width": 1400,
             "thumbnail":
               "/poppies/thumbnails/detail_coquelicot_au_vent_blanc.jpg",
             "image": "/poppies/detail_coquelicot_au_vent_blanc.jpg",
@@ -476,12 +660,16 @@
           },
           {
             "thumbnail":
-              "/poppies/thumbnails/detail_coquelicot_au_vent_rouge.JPG",
-            "image": "/poppies/detail_coquelicot_au_vent_rouge.JPG",
+              "/poppies/thumbnails/detail_coquelicot_au_vent_rouge.jpg",
+            "image": "/poppies/detail_coquelicot_au_vent_rouge.jpg",
+            "width": "2261",
+            "height": "1964",
             "name": "Details de Coquelicots au Vent Rouge",
             "materials": "Mineral paste, metal, acrylic and mixed media"
           },
           {
+            "height": 940,
+            "width": 1404,
             "thumbnail":
               "/poppies/thumbnails/detail_coquelicots_au_vent_argent.jpg",
             "image": "/poppies/detail_coquelicots_au_vent_argent.jpg",
@@ -489,6 +677,8 @@
             "materials": "Mineral paste, metal, acrylic and mixed media"
           },
           {
+            "height": 3466,
+            "width": 1987,
             "thumbnail": "/poppies/thumbnails/installation_poppies.jpg",
             "image": "/poppies/installation_poppies.jpg",
             "name": "Customised Poppies Triptych",
@@ -497,6 +687,8 @@
             "year": 2009
           },
           {
+            "height": 1861,
+            "width": 3357,
             "thumbnail": "/poppies/thumbnails/nuage_de_coquelicots.jpg",
             "image": "/poppies/nuage_de_coquelicots.jpg",
             "name": "Nuage de Coquelicots",
@@ -505,6 +697,8 @@
             "year": 2008
           },
           {
+            "height": 2122,
+            "width": 1689,
             "thumbnail": "/poppies/thumbnails/nuance_de_coquelicots.jpg",
             "image": "/poppies/nuance_de_coquelicots.jpg",
             "name": "Nuance de Coquelicots",
@@ -513,6 +707,8 @@
             "year": 2008
           },
           {
+            "height": 1922,
+            "width": 5332,
             "thumbnail": "/poppies/thumbnails/vent_en_coquelicots.jpg",
             "image": "/poppies/vent_en_coquelicots.jpg",
             "name": "Vent en Coquelicots",
@@ -729,7 +925,7 @@
         "gallery": [
           {
             "thumbnail": "/press/thumbnails/Le bien public.jpg",
-             "width": "509",
+            "width": "509",
             "height": "99",
             "french": "/articles/Bien_Public/FR_2009_dec.jpg",
             "english": "",
@@ -737,7 +933,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/cde.jpg",
-             "width": "354",
+            "width": "354",
             "height": "354",
             "french":
               "/articles/Caisse_d_Epargne/FR-Verodalla&nbsp;CEP-avril-2009.pdf",
@@ -747,7 +943,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/aah.png",
-             "width": "200",
+            "width": "200",
             "height": "200",
             "french": "",
             "english":
@@ -756,7 +952,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/sh.jpg",
-             "width": "300",
+            "width": "300",
             "height": "272",
             "french": "",
             "english":
@@ -765,7 +961,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/charity-buzz.png",
-             "width": "506",
+            "width": "506",
             "height": "164",
             "french": "",
             "english":
@@ -784,7 +980,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/cover T&T.jpg",
-             "width": "2480",
+            "width": "2480",
             "height": "3437",
             "french":
               "/articles/Towns_Territories/FR-La-vie-habillee-en-robe-rouge-National-bis.pdf",
@@ -801,7 +997,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/logo-jdp-bourgogne.jpg",
-             "width": "560",
+            "width": "560",
             "height": "141",
             "french": "/articles/journal_du_palais/journal-du-palais.pdf\"",
             "english": "/articles/journal_du_palais/ANGL-Journal-du-Palais.pdf",
@@ -809,15 +1005,16 @@
           },
           {
             "thumbnail": "/press/thumbnails/logo-VoixduNord.png",
-             "width": "320",
+            "width": "320",
             "height": "239",
             "french": "/articles/La_Voix_du_Nord/FR-Ladies-Circle-oct-07.pdf",
-            "english": "/articles/La_Voix_du_Nord/ANG-Ladies-Circle-oct-07-.pdf",
+            "english":
+              "/articles/La_Voix_du_Nord/ANG-Ladies-Circle-oct-07-.pdf",
             "name": "La Voix Du Nord"
           },
           {
             "thumbnail": "/press/thumbnails/eqarts.jpg",
-             "width": "722",
+            "width": "722",
             "height": "1000",
             "french": "/articles/Equarts/FR-Verodalla-Equarts.pdf",
             "english": "/articles/Equarts/ANG-Verodalla-Equarts.pdf",
@@ -825,7 +1022,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/France Bleue Borurgogne.jpg",
-             "width": "225",
+            "width": "225",
             "height": "225",
             "french": "",
             "english": "",
@@ -841,7 +1038,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/High End.jpg",
-             "width": "280",
+            "width": "280",
             "height": "280",
             "french": "",
             "english":
@@ -850,16 +1047,17 @@
           },
           {
             "thumbnail": "/press/thumbnails/Land of .jpg",
-             "width": "400",
+            "width": "400",
             "height": "90",
             "french":
               "/articles/Land_of_compassion/FR-VeroDallaterre-de-compassionjuin-12.pdf",
-            "english": "/articles/Land_of_compassion/ANG-Land-of-compassion.pdf",
+            "english":
+              "/articles/Land_of_compassion/ANG-Land-of-compassion.pdf",
             "name": " Land of Compassion"
           },
           {
             "thumbnail": "/press/thumbnails/Le Point NY.jpg",
-             "width": "250",
+            "width": "250",
             "height": "363",
             "french": "/articles/Le_point/FR-le-point1-1.pdf",
             "english": "",
@@ -867,7 +1065,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/NBC4NewYork.jpg",
-             "width": "1200",
+            "width": "1200",
             "height": "675",
             "french": "",
             "english": "",
@@ -875,7 +1073,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/TV Net Bourgogne.jpg",
-             "width": "280",
+            "width": "280",
             "height": "280",
             "french":
               "/articles/TV_Net_Bourgogne/FR-interview-TVnet-bourgogne.pdf",
@@ -885,7 +1083,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/Ubifrance.jpg",
-             "width": "591",
+            "width": "591",
             "height": "299",
             "french":
               "/articles/UbiFrance/FR-Success-Story-Ubifrance-Internationale-2011.pdf",
@@ -895,7 +1093,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/le-journal-de-saone-et-loire.jpg",
-             "width": "300",
+            "width": "300",
             "height": "300",
             "french":
               "/articles/Journal_de_Saone_et_Loire/FR-2008-juin-copy.jpg",
@@ -905,7 +1103,7 @@
           },
           {
             "thumbnail": "/press/thumbnails/logo-Observateur-Avesnois.gif",
-             "width": "350",
+            "width": "350",
             "height": "77",
             "french": "",
             "english": "",
