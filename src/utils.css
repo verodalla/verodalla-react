@@ -15,7 +15,7 @@
 
 /*== ANIMATE CAPTION == */
 .animate-caption:hover figcaption {
-  max-height: 300px;
+  max-height: 1200px;
 }
 
 .animate-caption figcaption p {

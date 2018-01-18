@@ -4,9 +4,13 @@ import SlideshowLayout from './slideshow.js';
 
 import './standard.css';
 
+const determineIfMobile = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
 const StandardLayout = props => {
   const { disableSlideshow } = props;
-  if (props.activeSlideIndex >= 0 && !disableSlideshow) {
+  const isMobile = determineIfMobile();
+
+  if (props.activeSlideIndex >= 0 && !disableSlideshow && !isMobile) {
     return <SlideshowLayout {...props} />;
   }
 
@@ -34,6 +38,7 @@ const StandardLayout = props => {
         />,
         <div className="subgallery">
           {gallery.gallery.map((galleryItem, index) => (
+            <div>
             <figure
               className={determineClassName(disableSlideshow, galleryItem.name)}
               onClick={
@@ -50,6 +55,7 @@ const StandardLayout = props => {
                 <p>{galleryItem.year}</p>
               </figcaption>
             </figure>
+            </div>
           ))}
         </div>
       ])}
